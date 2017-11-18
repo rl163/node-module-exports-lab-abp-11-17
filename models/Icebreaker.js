@@ -8,3 +8,4 @@ class Icebreaker{
 }
 
 module.exports = Icebreaker
+class Icebreaker = require('./Question.js')
